@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rushi Sathavara 👋</h1>
 
 <p align="center">
-  <b>Python & AI Engineer</b> · New York, NY · Open to Work (OPT)
+  <b>Python & AI Engineer</b>
 </p>
 
 <p align="center">
@@ -12,8 +12,6 @@
   <a href="mailto:sathawararushi@gmail.com">
     <img src="https://img.shields.io/badge/Email-sathawararushi@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/MS_CS-Harrisburg_University-4.0_GPA-2ea44f?style=flat" />
 </p>
 
 ---
