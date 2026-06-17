@@ -1,68 +1,61 @@
-# Hi, I'm Rushi Sathavara 👋
+<h1 align="center">Hi, I'm Rushi Sathavara 👋</h1>
 
-**Python & AI Engineer** — I build backend systems, data pipelines, and agentic AI applications.
+<p align="center">
+  <b>Python & AI Engineer</b> · New York, NY · Open to Work (OPT)
+</p>
 
-MS Computer Science @ Harrisburg University (4.0 GPA) · Based in New York, NY · Open to work on OPT
-
----
-
-## What I'm working with
-
-**AI & LLM**
-`LangGraph` `LangChain` `GPT-4` `RAG` `ChromaDB` `Streamlit` `Prompt Engineering`
-
-**Backend**
-`Python` `FastAPI` `Django` `Django REST Framework` `Celery` `Redis`
-
-**Data Engineering**
-`Apache Airflow` `PySpark` `Snowflake` `Databricks` `PostgreSQL` `Power BI`
-
-**Frontend & Full-Stack**
-`React` `TypeScript` `SvelteKit` `TailwindCSS`
-
-**Infrastructure**
-`Docker` `AWS` `GitHub Actions` `Jenkins CI/CD`
+<p align="center">
+  <a href="https://www.linkedin.com/in/rushi-sathavara-abb68418b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:sathawararushi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sathawararushi@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/MS_CS-Harrisburg_University-4.0_GPA-2ea44f?style=flat" />
+</p>
 
 ---
 
-## Featured projects
+**5 years of experience** building Python backends, agentic AI systems, and production data pipelines.  
+I've shipped real features at an ERP company (Odoo), an e-commerce platform (Shopify integration), and two live startup products at Harrisburg University's CIE.
 
-### 🤖 Multi-Agent AI Job Assistant
-> LangGraph + GPT-4 + ChromaDB RAG — 5 specialized agents that parse job descriptions, analyze skills gaps, optimize resumes, generate cover letters, and track applications. Built on the multi-agent orchestration pattern used in production AI systems.
-
-[View repo →](https://github.com/Rushi6767/AI-Job-Assistant)
+Currently focused on: **LLM applications · Agentic AI · Data Engineering**
 
 ---
 
-### 📊 Crypto Market ETL Pipeline
-> End-to-end data pipeline — Apache Airflow orchestrates daily extraction from CoinGecko API, PySpark transforms 100+ records, Snowflake stores structured data, Power BI visualizes market trends. Auto-schema creation, parameterized SQL, env-based credentials.
+### Tech Stack
 
-[View repo →](https://github.com/Rushi6767/etlpipeline)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-7C3AED?style=flat&logoColor=white)
+![OpenAI](https://img.shields.io/badge/GPT--4-412991?style=flat&logo=openai&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
----
-
-### 🔮 Crypto Price Prediction — ML Microservices
-> FastAPI backend serving a Random Forest model (91% accuracy) trained on 100k+ crypto records. Flask frontend consumes the API. Deployed live on Render. Full microservices architecture with feature engineering and model export.
-
-[Live API](https://crypto-predict-api-zl1q.onrender.com) · [View repo →](https://github.com/Rushi6767/crypto_predict_backend)
-
----
-
-## Work experience highlights
-
-**Web Developer — Harrisburg University CIE** *(2024–2025)*
-Built two production startup apps: [Print3D](https://print3d.samfun.dev) (SvelteKit 3D printing platform) and [MacroPivot](https://fait.cie.harrisburgu.cloud) (React + TypeScript AI financial dashboard). Deployed via Jenkins CI/CD.
-
-**OCR Technical Lead — Odoo / Tiny ERP** *(2019–2021)*
-Promoted within 6 months. Improved invoice extraction accuracy from **75% → 92%**. Led a team, built onboarding docs, introduced code review standards.
-
-**Python/Django Developer — LinkSture Technologies** *(2021–2022)*
-Built full Shopify integration: Django + DRF + Celery + Redis. Webhook handling, async background processing, admin dashboards with React + Shopify Polaris.
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ---
 
-## Connect
+### Highlights
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rushi_Sathavara-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushi-sathavara-abb68418b/)
-[![Email](https://img.shields.io/badge/Email-sathawararushi@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:sathawararushi@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Rushi6767-181717?logo=github&logoColor=white)](https://github.com/Rushi6767)
+- 🤖 Built a **multi-agent AI system** (LangGraph + GPT-4 + RAG) that parses resumes, matches jobs, and generates cover letters
+- 📊 Built a **crypto ETL pipeline** — Airflow → PySpark → Snowflake → Power BI, running daily on live API data
+- 📈 Improved **OCR invoice accuracy from 75% → 92%** as Technical Lead at Odoo — promoted within 6 months
+- 🛍️ Built full **Shopify + Django integration** with Celery async processing and webhook handling
+- 🌐 Deployed two live startup apps: [print3d.samfun.dev](https://print3d.samfun.dev) · [fait.cie.harrisburgu.cloud](https://fait.cie.harrisburgu.cloud)
+
+---
+
+<p align="center">
+  <i>Check the pinned repos below ↓</i>
+</p>
